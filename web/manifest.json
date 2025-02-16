@@ -1,6 +1,6 @@
 {
-    "name": "my_flutter_webapp",
-    "short_name": "my_flutter_webapp",
+    "name": "fujitsuweb",
+    "short_name": "fujitsuweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
